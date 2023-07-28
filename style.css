@@ -27,21 +27,6 @@
 }
 
 .escola{
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-.escola{
   background-image: linear-gradient(#fdfeff,#000000);
   color:white;
   display: flex;
@@ -55,4 +40,21 @@
 }
 .escola-titulo{
   padding: 24px 0;
+}
+
+.estudante{
+  padding: 24px 0;
+}
+.estudante-imagem{
+  width: 120px;
+}
+
+.estudante-icone{
+  width: 24px;
+  padding: 4px 8px;
+}
+
+.estudante-div{
+  text-align: center;
+  padding: 16px 0;
 }
